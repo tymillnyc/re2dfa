@@ -1,0 +1,1 @@
+(a|b|c)*ccc(ac|cb|ba)(a|b|c)*

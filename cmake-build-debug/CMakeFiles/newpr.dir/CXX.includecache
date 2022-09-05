@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a.v.protasov/desktop/newpr/api.hpp
+string
+-
+set
+-
+
+/Users/a.v.protasov/desktop/newpr/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+api.hpp
+/Users/a.v.protasov/desktop/newpr/api.hpp
+
